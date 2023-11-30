@@ -4,7 +4,6 @@ public class MergeHellController {
 	public static void main(String[] args) {
 		kadaiA();
 		kadaiB();
-		kadaiC();
 	}
 
 		static void kadaiA() {
